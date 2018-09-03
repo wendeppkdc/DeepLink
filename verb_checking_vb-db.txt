@@ -1,0 +1,254 @@
+sent: 0003-16	token: 36	type-1: say-v;37.7-1	type-2: _say_v_1	and	_say_v_to (v.1st)
+sent: 0011-3	token: 12	type-1: stop-v;55.4-1	type-2: _stop_v_1	and	_stop_v_prd (v.1st)
+sent: 0012-5	token: 16	type-1: increase-v;45.6-1	type-2: _increase_v_cause	and	_increase_v_1 (v.1st)
+sent: 0015-20	token: 3	type-1: hope-v;32.2-1	type-2: _hope_v_1	and	_hope_v_for (v.1st)
+sent: 0016-4	token: 4	type-1: grow-v;45.6-1	type-2: _grow_v_cause	and	_grow_v_1 (v.1st)
+sent: 0018-3	token: 12	type-1: work-v;73-3	type-2: _work_v_on	and	_work_v_1 (v.1st)
+sent: 0018-13	token: 6	type-1: consider-v;29.9-1-1-1	type-2: _consider_v_as	and	_consider_v_1 (v.1st)
+sent: 0018-31	token: 14	type-1: work-v;73-3	type-2: _work_v_for	and	_work_v_1 (v.1st)
+sent: 0020-3	token: 14	type-1: vary-v;45.6-1	type-2: _vary_v_1	and	_vary_v_cause (v.1st)
+sent: 0020-5	token: 37	type-1: invest-v;13.4.2	type-2: _invest_v_1	and	_invest_v_in (v.1st)
+sent: 0020-17	token: 16	type-1: continue-v;55.3	type-2: _continue_v_1	and	_continue_v_2 (v.1st)
+sent: 0022-4	token: 10	type-1: use-v;105	type-2: _use_v_as	and	_use_v_1 (v.1st)
+sent: 0023-3	token: 17	type-1: increase-v;45.6-1	type-2: _increase_v_cause	and	_increase_v_1 (v.1st)
+sent: 0024-3	token: 4	type-1: increase-v;45.6-1	type-2: _increase_v_cause	and	_increase_v_1 (v.1st)
+sent: 0024-7	token: 17	type-1: make-v;26.1-1	type-2: _make_v_cause	and	_make_v_1 (v.1st)
+sent: 0029-2	token: 11	type-1: place-v;9.1-2	type-2: _place_v_with	and	_place_v_1 (v.1st)
+sent: 0036-30	token: 18	type-1: help-v;72-1	type-2: _help_v_1	and	_help_v_to (v.1st)
+sent: 0036-44	token: 15	type-1: continue-v;55.3	type-2: _continue_v_1	and	_continue_v_2 (v.1st)
+sent: 0036-57	token: 21	type-1: lead-v;59	type-2: _lead_v_1	and	_lead_v_to (v.1st)
+sent: 0037-12	token: 1	type-1: have-v;100	type-2: _have_v_prd	and	_have_v_1 (v.1st)
+sent: 0037-32	token: 3	type-1: take-v;10.5	type-2: _take_v_1	and	_take_v_of-i (v.1st)
+sent: 0037-55	token: 15	type-1: find-v;84	type-2: _find_v_mental	and	_find_v_1 (v.1st)
+sent: 0037-56	token: 24	type-1: find-v;84	type-2: _find_v_mental	and	_find_v_1 (v.1st)
+sent: 0037-58	token: 3	type-1: increase-v;45.6-1	type-2: _increase_v_cause	and	_increase_v_1 (v.1st)
+sent: 0039-7	token: 1	type-1: say-v;37.7-1	type-2: _say_v_1	and	_say_v_to (v.1st)
+sent: 0039-16	token: 10	type-1: call-v;29.3	type-2: _call_v_1	and	_call_v_name (v.1st)
+sent: 0039-27	token: 2	type-1: end-v;55.4-1	type-2: _end_v_1	and	_end_v_cause (v.1st)
+sent: 0039-33	token: 7	type-1: continue-v;55.3	type-2: _continue_v_1	and	_continue_v_2 (v.1st)
+sent: 0041-4	token: 4	type-1: start-v;55.1-1	type-2: _start_v_1	and	_start_v_cause (v.1st)
+sent: 0041-6	token: 15	type-1: worry-v;31.1	type-2: _worry_v_about	and	_worry_v_1 (v.1st)
+sent: 0041-27	token: 16	type-1: insist-v;37.7	type-2: _insist_v_1	and	_insist_v_on (v.1st)
+sent: 0041-28	token: 15	type-1: insist-v;37.7	type-2: _insist_v_1	and	_insist_v_on (v.1st)
+sent: 0041-28	token: 18	type-1: make-v;26.1-1	type-2: _make_v_of	and	_make_v_1 (v.1st)
+sent: 0041-30	token: 3	type-1: blame-v;33	type-2: _blame_v_on	and	_blame_v_for (v.1st)
+sent: 0041-32	token: 2	type-1: say-v;37.7-1	type-2: _say_v_1	and	_say_v_to (v.1st)
+sent: 0041-37	token: 28	type-1: agree-v;36.1-1	type-2: _agree_v_with	and	_agree_v_1 (v.1st)
+sent: 0041-45	token: 16	type-1: ask-v;37.1.2	type-2: _ask_v_about	and	_ask_v_1 (v.1st)
+sent: 0041-68	token: 3	type-1: build-v;26.1-1	type-2: _build_v_on	and	_build_v_1 (v.1st)
+sent: 0043-9	token: 3	type-1: know-v;29.5-1	type-2: _know_v_as	and	_know_v_1 (v.1st)
+sent: 0044-13	token: 16	type-1: make-v;29.3	type-2: _make_v_1	and	_make_v_cause (v.1st)
+sent: 0044-33	token: 28	type-1: give-v;13.1-1	type-2: _give_v_away	and	_give_v_1 (v.1st)
+sent: 0044-51	token: 3	type-1: suffer-v;31.3-4	type-2: _suffer_v_1	and	_suffer_v_through (v.1st)
+sent: 0044-54	token: 5	type-1: clean-v;10.3	type-2: _clean_v_out	and	_clean_v_up (v.1st)
+sent: 0044-59	token: 2	type-1: dream-v;62	type-2: _dream_v_about	and	_dream_v_up (v.1st)
+sent: 0044-62	token: 33	type-1: consider-v;29.9-1-1-1	type-2: _consider_v_as	and	_consider_v_1 (v.1st)
+sent: 0044-63	token: 31	type-1: choose-v;13.5.1	type-2: _choose_v_as	and	_choose_v_from (v.1st)
+sent: 0044-64	token: 8	type-1: have-v;100	type-2: _have_v_prd	and	_have_v_1 (v.1st)
+sent: 0044-80	token: 17	type-1: insist-v;37.7	type-2: _insist_v_1	and	_insist_v_on (v.1st)
+sent: 0044-86	token: 10	type-1: insist-v;37.7	type-2: _insist_v_1	and	_insist_v_on (v.1st)
+sent: 0044-87	token: 6	type-1: help-v;72-1	type-2: _help_v_1	and	_help_v_to (v.1st)
+sent: 0044-91	token: 25	type-1: suffer-v;31.3-4	type-2: _suffer_v_1	and	_suffer_v_through (v.1st)
+sent: 0044-99	token: 22	type-1: help-v;72-1	type-2: _help_v_1	and	_help_v_to (v.1st)
+sent: 0044-100	token: 7	type-1: complain-v;37.8	type-2: _complain_v_to-about	and	_complain_v_of (v.1st)
+sent: 0044-105	token: 7	type-1: take-v;10.5	type-2: _take_v_into	and	_take_v_of-i (v.1st)
+sent: 0044-109	token: 2	type-1: say-v;37.7-1	type-2: _say_v_1	and	_say_v_to (v.1st)
+sent: 0045-33	token: 4	type-1: come-v;48.1.1	type-2: _come_v_out	and	_come_v_1 (v.1st)
+sent: 0047-2	token: 7	type-1: worry-v;31.1	type-2: _worry_v_about	and	_worry_v_1 (v.1st)
+sent: 0047-4	token: 7	type-1: stop-v;55.4-1	type-2: _stop_v_1	and	_stop_v_prd (v.1st)
+sent: 0047-9	token: 15	type-1: continue-v;55.3	type-2: _continue_v_1	and	_continue_v_2 (v.1st)
+sent: 0047-11	token: 3	type-1: withdraw-v;10.1	type-2: _withdraw_v_from	and	_withdraw_v_1 (v.1st)
+sent: 0047-22	token: 14	type-1: continue-v;55.3	type-2: _continue_v_1	and	_continue_v_2 (v.1st)
+sent: 0048-11	token: 11	type-1: help-v;72-1	type-2: _help_v_1	and	_help_v_to (v.1st)
+sent: 0048-18	token: 4	type-1: involve-v;86.2-1	type-2: _involve_v_in	and	_involve_v_1 (v.1st)
+sent: 0049-3	token: 2	type-1: ask-v;60-1	type-2: _ask_v_for	and	_ask_v_1 (v.1st)
+sent: 0049-21	token: 6	type-1: ask-v;60-1	type-2: _ask_v_for	and	_ask_v_1 (v.1st)
+sent: 0049-24	token: 1	type-1: worry-v;31.1	type-2: _worry_v_about	and	_worry_v_1 (v.1st)
+sent: 0049-29	token: 6	type-1: take-v;10.5	type-2: _take_v_1	and	_take_v_of-i (v.1st)
+sent: 0049-31	token: 5	type-1: call-v;60	type-2: _call_v_1	and	_call_v_for (v.1st)
+sent: 0049-34	token: 19	type-1: increase-v;45.6-1	type-2: _increase_v_cause	and	_increase_v_1 (v.1st)
+sent: 0049-44	token: 10	type-1: employ-v;13.5.3	type-2: _employ_v_as	and	_employ_v_1 (v.1st)
+sent: 0049-69	token: 5	type-1: end-v;55.4-1	type-2: _end_v_1	and	_end_v_cause (v.1st)
+sent: 0050-0	token: 17	type-1: buy-v;13.5.1	type-2: _buy_v_from	and	_buy_v_1 (v.1st)
+sent: 0051-8	token: 15	type-1: make-v;29.3	type-2: _make_v_i	and	_make_v_cause (v.1st)
+sent: 0051-13	token: 8	type-1: feel-v;30.1-1	type-2: _feel_v_seem-about	and	_feel_v_1 (v.1st)
+sent: 0051-20	token: 1	type-1: complain-v;37.8	type-2: _complain_v_to-about	and	_complain_v_of (v.1st)
+sent: 0051-30	token: 2	type-1: insist-v;37.7	type-2: _insist_v_1	and	_insist_v_on (v.1st)
+sent: 0051-30	token: 16	type-1: know-v;29.5-1	type-2: _know_v_about	and	_know_v_1 (v.1st)
+sent: 0054-2	token: 6	type-1: buy-v;13.5.1	type-2: _buy_v_from	and	_buy_v_1 (v.1st)
+sent: 0057-0	token: 23	type-1: continue-v;55.3	type-2: _continue_v_1	and	_continue_v_2 (v.1st)
+sent: 0058-1	token: 32	type-1: increase-v;45.6-1	type-2: _increase_v_cause	and	_increase_v_1 (v.1st)
+sent: 0059-5	token: 20	type-1: start-v;55.1-1	type-2: _start_v_1	and	_start_v_cause (v.1st)
+sent: 0059-15	token: 28	type-1: continue-v;55.3	type-2: _continue_v_1	and	_continue_v_2 (v.1st)
+sent: 0059-16	token: 25	type-1: take-v;10.5	type-2: _take_v_1	and	_take_v_of-i (v.1st)
+sent: 0060-0	token: 26	type-1: keep-v;55.6	type-2: _keep_v_prd	and	_keep_v_from (v.1st)
+sent: 0060-2	token: 3	type-1: help-v;72-1	type-2: _help_v_1	and	_help_v_to (v.1st)
+sent: 0060-19	token: 6	type-1: feel-v;30.1-1	type-2: _feel_v_seem-about	and	_feel_v_1 (v.1st)
+sent: 0062-2	token: 19	type-1: find-v;84	type-2: _find_v_out	and	_find_v_1 (v.1st)
+sent: 0062-6	token: 4	type-1: call-v;29.3	type-2: _call_v_1	and	_call_v_name (v.1st)
+sent: 0062-18	token: 22	type-1: make-v;29.3	type-2: _make_v_1	and	_make_v_cause (v.1st)
+sent: 0062-34	token: 5	type-1: make-v;29.3	type-2: _make_v_1	and	_make_v_cause (v.1st)
+sent: 0063-0	token: 7	type-1: increase-v;45.6-1	type-2: _increase_v_cause	and	_increase_v_1 (v.1st)
+sent: 0063-6	token: 16	type-1: leave-v;13.3	type-2: _leave_v_transfer	and	_leave_v_1 (v.1st)
+sent: 0063-8	token: 5	type-1: increase-v;45.6-1	type-2: _increase_v_cause	and	_increase_v_1 (v.1st)
+sent: 0063-10	token: 11	type-1: mean-v;29.5-1	type-2: _mean_v_to	and	_mean_v_1 (v.1st)
+sent: 0063-14	token: 26	type-1: buy-v;13.5.1	type-2: _buy_v_back	and	_buy_v_1 (v.1st)
+sent: 0064-15	token: 8	type-1: apply-v;105	type-2: _apply_v_to	and	_apply_v_2 (v.1st)
+sent: 0067-4	token: 30	type-1: think-v;29.9-2	type-2: _think_v_of	and	_think_v_1 (v.1st)
+sent: 0067-11	token: 8	type-1: negotiate-v;36.1	type-2: _negotiate_v_with	and	_negotiate_v_1 (v.1st)
+sent: 0071-17	token: 8	type-1: sell-v;13.1-1	type-2: _sell_v_out	and	_sell_v_1 (v.1st)
+sent: 0071-27	token: 14	type-1: come-v;48.1.1	type-2: _come_v_out	and	_come_v_1 (v.1st)
+sent: 0071-38	token: 10	type-1: come-v;48.1.1	type-2: _come_v_about	and	_come_v_1 (v.1st)
+sent: 0071-40	token: 26	type-1: start-v;55.1-1	type-2: _start_v_1	and	_start_v_cause (v.1st)
+sent: 0071-50	token: 4	type-1: keep-v;55.6	type-2: _keep_v_prd	and	_keep_v_from (v.1st)
+sent: 0077-5	token: 0	type-1: continue-v;55.3	type-2: _continue_v_1	and	_continue_v_2 (v.1st)
+sent: 0080-7	token: 1	type-1: see-v;30.1-1	type-2: _see_v_as	and	_see_v_1 (v.1st)
+sent: 0080-19	token: 13	type-1: ask-v;58.2	type-2: _ask_v_1	and	_ask_v_for (v.1st)
+sent: 0080-23	token: 9	type-1: negotiate-v;36.1	type-2: _negotiate_v_with	and	_negotiate_v_1 (v.1st)
+sent: 0082-2	token: 15	type-1: come-v;48.1.1	type-2: _come_v_out	and	_come_v_1 (v.1st)
+sent: 0082-4	token: 8	type-1: perceive-v;30.2	type-2: _perceive_v_as	and	_perceive_v_1 (v.1st)
+sent: 0082-5	token: 14	type-1: focus-v;87.1	type-2: _focus_v_on	and	_focus_v_cause-on (v.1st)
+sent: 0082-5	token: 43	type-1: know-v;29.5-1	type-2: _know_v_as	and	_know_v_1 (v.1st)
+sent: 0082-17	token: 30	type-1: buy-v;13.5.1	type-2: _buy_v_out	and	_buy_v_1 (v.1st)
+sent: 0082-25	token: 3	type-1: agree-v;36.1-1	type-2: _agree_v_with	and	_agree_v_1 (v.1st)
+sent: 0082-25	token: 13	type-1: start-v;55.1-1	type-2: _start_v_1	and	_start_v_cause (v.1st)
+sent: 0082-25	token: 16	type-1: focus-v;87.1	type-2: _focus_v_on	and	_focus_v_cause-on (v.1st)
+sent: 0082-27	token: 13	type-1: complain-v;37.8	type-2: _complain_v_to-about	and	_complain_v_of (v.1st)
+sent: 0082-32	token: 13	type-1: agree-v;36.1-1	type-2: _agree_v_on	and	_agree_v_1 (v.1st)
+sent: 0082-34	token: 4	type-1: hope-v;32.2-1	type-2: _hope_v_1	and	_hope_v_for (v.1st)
+sent: 0083-36	token: 2	type-1: invest-v;13.4.2	type-2: _invest_v_1	and	_invest_v_in (v.1st)
+sent: 0083-41	token: 16	type-1: get-v;13.5.1-1	type-2: _get_v_from-to	and	_get_v_1 (v.1st)
+sent: 0083-42	token: 23	type-1: hope-v;32.2-1	type-2: _hope_v_1	and	_hope_v_for (v.1st)
+sent: 0083-43	token: 8	type-1: end-v;55.4-1	type-2: _end_v_1	and	_end_v_cause (v.1st)
+sent: 0084-2	token: 6	type-1: elaborate-v;37.11-1-1	type-2: _elaborate_v_on	and	_elaborate_v_1 (v.1st)
+sent: 0085-14	token: 27	type-1: help-v;72-1	type-2: _help_v_1	and	_help_v_to (v.1st)
+sent: 0085-35	token: 8	type-1: think-v;29.9-2	type-2: _think_v_about	and	_think_v_1 (v.1st)
+sent: 0085-52	token: 12	type-1: start-v;55.1-1	type-2: _start_v_1	and	_start_v_cause (v.1st)
+sent: 0087-6	token: 13	type-1: think-v;29.9-2	type-2: _think_v_about	and	_think_v_1 (v.1st)
+sent: 0087-9	token: 9	type-1: help-v;72-1	type-2: _help_v_1	and	_help_v_to (v.1st)
+sent: 0087-14	token: 40	type-1: help-v;72-1	type-2: _help_v_1	and	_help_v_to (v.1st)
+sent: 0087-20	token: 24	type-1: keep-v;55.6	type-2: _keep_v_prd	and	_keep_v_from (v.1st)
+sent: 0088-2	token: 28	type-1: get-v;26.6.2	type-2: _get_v_around	and	_get_v_state (v.1st)
+sent: 0088-10	token: 40	type-1: keep-v;55.6	type-2: _keep_v_prd	and	_keep_v_from (v.1st)
+sent: 0088-18	token: 5	type-1: get-v;26.6.2	type-2: _get_v_around	and	_get_v_state (v.1st)
+sent: 0088-21	token: 32	type-1: stop-v;55.4-1	type-2: _stop_v_1	and	_stop_v_prd (v.1st)
+sent: 0089-4	token: 8	type-1: stop-v;55.4-1	type-2: _stop_v_1	and	_stop_v_prd (v.1st)
+sent: 0089-10	token: 35	type-1: keep-v;55.6	type-2: _keep_v_prd	and	_keep_v_from (v.1st)
+sent: 0089-13	token: 2	type-1: worry-v;31.1	type-2: _worry_v_about	and	_worry_v_1 (v.1st)
+sent: 0089-13	token: 22	type-1: keep-v;55.6	type-2: _keep_v_prd	and	_keep_v_from (v.1st)
+sent: 0089-15	token: 22	type-1: ring-v;43.2	type-2: _ring_v_cause	and	_ring_v_2 (v.1st)
+sent: 0089-15	token: 34	type-1: ring-v;43.2	type-2: _ring_v_cause	and	_ring_v_2 (v.1st)
+sent: 0089-19	token: 4	type-1: start-v;55.1-1	type-2: _start_v_off	and	_start_v_cause (v.1st)
+sent: 0089-22	token: 6	type-1: know-v;29.5-1	type-2: _know_v_as	and	_know_v_1 (v.1st)
+sent: 0089-28	token: 25	type-1: start-v;55.1-1	type-2: _start_v_1	and	_start_v_cause (v.1st)
+sent: 0089-28	token: 27	type-1: end-v;55.4-1	type-2: _end_v_1	and	_end_v_cause (v.1st)
+sent: 0089-31	token: 17	type-1: come-v;48.1.1	type-2: _come_v_of	and	_come_v_1 (v.1st)
+sent: 0089-34	token: 6	type-1: think-v;29.9-2	type-2: _think_v_of	and	_think_v_1 (v.1st)
+sent: 0089-41	token: 10	type-1: ring-v;43.2	type-2: _ring_v_cause	and	_ring_v_2 (v.1st)
+sent: 0089-45	token: 37	type-1: say-v;37.7-1	type-2: _say_v_1	and	_say_v_to (v.1st)
+sent: 0089-49	token: 16	type-1: aim-v;62	type-2: _aim_v_1	and	_aim_v_for (v.1st)
+sent: 0089-50	token: 1	type-1: hope-v;32.2-1	type-2: _hope_v_1	and	_hope_v_for (v.1st)
+sent: 0089-54	token: 14	type-1: ring-v;43.2	type-2: _ring_v_cause	and	_ring_v_2 (v.1st)
+sent: 0089-56	token: 12	type-1: keep-v;15.2	type-2: _keep_v_prd	and	_keep_v_unspec (v.1st)
+sent: 0090-7	token: 9	type-1: give-v;13.1-1	type-2: _give_v_to-i	and	_give_v_1 (v.1st)
+sent: 0090-11	token: 3	type-1: start-v;55.1-1	type-2: _start_v_1	and	_start_v_cause (v.1st)
+sent: 0090-18	token: 2	type-1: keep-v;55.6	type-2: _keep_v_unspec	and	_keep_v_from (v.1st)
+sent: 0090-26	token: 3	type-1: take-v;10.5	type-2: _take_v_1	and	_take_v_of-i (v.1st)
+sent: 0090-32	token: 6	type-1: look-v;30.4	type-2: _look_v_seem-to	and	_look_v_1 (v.1st)
+sent: 0090-33	token: 13	type-1: buy-v;13.5.1	type-2: _buy_v_back	and	_buy_v_1 (v.1st)
+sent: 0090-36	token: 3	type-1: happen-v;48.3	type-2: _happen_v_to	and	_happen_v_1 (v.1st)
+sent: 0090-47	token: 25	type-1: continue-v;55.3	type-2: _continue_v_1	and	_continue_v_2 (v.1st)
+sent: 0090-49	token: 26	type-1: help-v;72-1	type-2: _help_v_1	and	_help_v_to (v.1st)
+sent: 0091-6	token: 25	type-1: agree-v;36.1-1	type-2: _agree_v_on	and	_agree_v_1 (v.1st)
+sent: 0092-0	token: 21	type-1: focus-v;87.1	type-2: _focus_v_on	and	_focus_v_cause-on (v.1st)
+sent: 0092-8	token: 9	type-1: focus-v;87.1	type-2: _focus_v_on	and	_focus_v_cause-on (v.1st)
+sent: 0093-5	token: 25	type-1: believe-v;29.9-2	type-2: _believe_v_1	and	_believe_v_in (v.1st)
+sent: 0093-8	token: 13	type-1: believe-v;29.9-2	type-2: _believe_v_1	and	_believe_v_in (v.1st)
+sent: 0093-8	token: 33	type-1: involve-v;86.2-1	type-2: _involve_v_in	and	_involve_v_1 (v.1st)
+sent: 0093-16	token: 25	type-1: take-v;10.5	type-2: _take_v_1	and	_take_v_of-i (v.1st)
+sent: 0093-21	token: 5	type-1: leave-v;51.2-1	type-2: _leave_v_transfer	and	_leave_v_1 (v.1st)
+sent: 0093-30	token: 15	type-1: hope-v;32.2-1	type-2: _hope_v_1	and	_hope_v_for (v.1st)
+sent: 0093-35	token: 6	type-1: point-v;40.3.1-1	type-2: _point_v_1	and	_point_v_to (v.1st)
+sent: 0095-2	token: 5	type-1: have-v;100	type-2: _have_v_prd	and	_have_v_1 (v.1st)
+sent: 0095-2	token: 18	type-1: approve-v;31.3-6	type-2: _approve_v_of	and	_approve_v_1 (v.1st)
+sent: 0095-4	token: 9	type-1: approve-v;31.3-6	type-2: _approve_v_of	and	_approve_v_1 (v.1st)
+sent: 0095-4	token: 21	type-1: approve-v;31.3-6	type-2: _approve_v_of	and	_approve_v_1 (v.1st)
+sent: 0096-16	token: 4	type-1: return-v;13.2-2	type-2: _return_v_1	and	_return_v_to (v.1st)
+sent: 0096-19	token: 4	type-1: return-v;13.2-2	type-2: _return_v_1	and	_return_v_to (v.1st)
+sent: 0096-25	token: 16	type-1: return-v;13.2-2	type-2: _return_v_1	and	_return_v_to (v.1st)
+sent: 0096-26	token: 23	type-1: return-v;13.2-2	type-2: _return_v_1	and	_return_v_to (v.1st)
+sent: 0096-39	token: 18	type-1: complain-v;37.8	type-2: _complain_v_to-about	and	_complain_v_of (v.1st)
+sent: 0098-3	token: 6	type-1: agree-v;36.1-1	type-2: _agree_v_to	and	_agree_v_1 (v.1st)
+sent: 0098-8	token: 17	type-1: vote-v;29.3	type-2: _vote_v_for	and	_vote_v_1 (v.1st)
+sent: 0098-9	token: 7	type-1: peg-v;54.4	type-2: _peg_v_1	and	_peg_v_cause (v.1st)
+sent: 0098-17	token: 27	type-1: take-v;10.5	type-2: _take_v_1	and	_take_v_of-i (v.1st)
+========================Errors Records========================
+continue-v;55.3	10	['_continue_v_1', '_continue_v_2']
+help-v;72-1	10	['_help_v_1', '_help_v_to']
+increase-v;45.6-1	9	['_increase_v_cause', '_increase_v_1']
+start-v;55.1-1	9	['_start_v_1', '_start_v_off', '_start_v_cause']
+take-v;10.5	8	['_take_v_1', '_take_v_of-i', '_take_v_into']
+keep-v;55.6	8	['_keep_v_prd', '_keep_v_unspec', '_keep_v_from']
+say-v;37.7-1	6	['_say_v_1', '_say_v_to']
+hope-v;32.2-1	6	['_hope_v_1', '_hope_v_for']
+insist-v;37.7	6	['_insist_v_1', '_insist_v_on']
+agree-v;36.1-1	6	['_agree_v_on', '_agree_v_with', '_agree_v_to', '_agree_v_1']
+come-v;48.1.1	6	['_come_v_out', '_come_v_of', '_come_v_1', '_come_v_about']
+buy-v;13.5.1	6	['_buy_v_from', '_buy_v_back', '_buy_v_out', '_buy_v_1']
+stop-v;55.4-1	5	['_stop_v_1', '_stop_v_prd']
+end-v;55.4-1	5	['_end_v_1', '_end_v_cause']
+worry-v;31.1	5	['_worry_v_about', '_worry_v_1']
+know-v;29.5-1	5	['_know_v_as', '_know_v_about', '_know_v_1']
+make-v;29.3	5	['_make_v_1', '_make_v_i', '_make_v_cause']
+complain-v;37.8	5	['_complain_v_to-about', '_complain_v_of']
+think-v;29.9-2	5	['_think_v_about', '_think_v_of', '_think_v_1']
+focus-v;87.1	5	['_focus_v_on', '_focus_v_cause-on']
+ring-v;43.2	5	['_ring_v_cause', '_ring_v_2']
+return-v;13.2-2	5	['_return_v_1', '_return_v_to']
+have-v;100	4	['_have_v_prd', '_have_v_1']
+find-v;84	4	['_find_v_mental', '_find_v_1', '_find_v_out']
+approve-v;31.3-6	4	['_approve_v_of', '_approve_v_1']
+work-v;73-3	3	['_work_v_for', '_work_v_on', '_work_v_1']
+consider-v;29.9-1-1-1	3	['_consider_v_as', '_consider_v_1']
+invest-v;13.4.2	3	['_invest_v_1', '_invest_v_in']
+make-v;26.1-1	3	['_make_v_of', '_make_v_cause', '_make_v_1']
+call-v;29.3	3	['_call_v_1', '_call_v_name']
+give-v;13.1-1	3	['_give_v_to-i', '_give_v_1', '_give_v_away']
+suffer-v;31.3-4	3	['_suffer_v_1', '_suffer_v_through']
+involve-v;86.2-1	3	['_involve_v_in', '_involve_v_1']
+ask-v;60-1	3	['_ask_v_for', '_ask_v_1']
+feel-v;30.1-1	3	['_feel_v_seem-about', '_feel_v_1']
+negotiate-v;36.1	3	['_negotiate_v_with', '_negotiate_v_1']
+get-v;26.6.2	3	['_get_v_around', '_get_v_state']
+believe-v;29.9-2	3	['_believe_v_1', '_believe_v_in']
+grow-v;45.6-1	2	['_grow_v_1', '_grow_v_cause']
+vary-v;45.6-1	2	['_vary_v_cause', '_vary_v_1']
+use-v;105	2	['_use_v_as', '_use_v_1']
+place-v;9.1-2	2	['_place_v_1', '_place_v_with']
+lead-v;59	2	['_lead_v_to', '_lead_v_1']
+blame-v;33	2	['_blame_v_for', '_blame_v_on']
+ask-v;37.1.2	2	['_ask_v_about', '_ask_v_1']
+build-v;26.1-1	2	['_build_v_on', '_build_v_1']
+clean-v;10.3	2	['_clean_v_out', '_clean_v_up']
+dream-v;62	2	['_dream_v_about', '_dream_v_up']
+choose-v;13.5.1	2	['_choose_v_as', '_choose_v_from']
+withdraw-v;10.1	2	['_withdraw_v_from', '_withdraw_v_1']
+call-v;60	2	['_call_v_for', '_call_v_1']
+employ-v;13.5.3	2	['_employ_v_as', '_employ_v_1']
+leave-v;13.3	2	['_leave_v_transfer', '_leave_v_1']
+mean-v;29.5-1	2	['_mean_v_1', '_mean_v_to']
+apply-v;105	2	['_apply_v_2', '_apply_v_to']
+sell-v;13.1-1	2	['_sell_v_1', '_sell_v_out']
+see-v;30.1-1	2	['_see_v_as', '_see_v_1']
+ask-v;58.2	2	['_ask_v_1', '_ask_v_for']
+perceive-v;30.2	2	['_perceive_v_1', '_perceive_v_as']
+get-v;13.5.1-1	2	['_get_v_from-to', '_get_v_1']
+elaborate-v;37.11-1-1	2	['_elaborate_v_on', '_elaborate_v_1']
+aim-v;62	2	['_aim_v_1', '_aim_v_for']
+keep-v;15.2	2	['_keep_v_unspec', '_keep_v_prd']
+look-v;30.4	2	['_look_v_1', '_look_v_seem-to']
+happen-v;48.3	2	['_happen_v_to', '_happen_v_1']
+leave-v;51.2-1	2	['_leave_v_transfer', '_leave_v_1']
+point-v;40.3.1-1	2	['_point_v_to', '_point_v_1']
+vote-v;29.3	2	['_vote_v_for', '_vote_v_1']
+peg-v;54.4	2	['_peg_v_cause', '_peg_v_1']

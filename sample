@@ -1,0 +1,334 @@
+;;;
+;;; Redwoods export of `wsj00a';
+;;; (wsun@wsun; 22-jan-2018 (09:57 h)).
+;;;
+
+[20001002] (1 of 1) {1} `Mr. Vinken is chairman of Elsevier N.V., the Dutch publishing group.'
+
+[20001002:0] (active)
+
+<
+  (1, 0, 1, <0:3>, 1, "Mr.", 0, "null", "NNP" 1.0)
+  (2, 1, 2, <4:10>, 1, "Vinken", 0, "null", "NNP" 1.0)
+  (3, 2, 3, <11:13>, 1, "is", 0, "null", "VBZ" 1.0)
+  (4, 3, 4, <14:22>, 1, "chairman", 0, "null", "NN" 1.0)
+  (5, 4, 5, <23:25>, 1, "of", 0, "null", "IN" 1.0)
+  (6, 5, 6, <26:34>, 1, "Elsevier", 0, "null", "NNP" 1.0)
+  (7, 6, 7, <35:39>, 1, "N.V.", 0, "null", "NNP" 1.0)
+  (8, 7, 8, <39:40>, 1, ",", 0, "null", "," 1.0)
+  (9, 8, 9, <41:44>, 1, "the", 0, "null", "DT" 1.0)
+  (10, 9, 10, <45:50>, 1, "Dutch", 0, "null", "JJ" 0.9062 "NNP" 0.0938)
+  (11, 10, 11, <51:61>, 1, "publishing", 0, "null", "NN" 0.9499 "VBG" 0.0501)
+  (12, 11, 12, <62:67>, 1, "group", 0, "null", "NN" 1.0)
+  (13, 12, 13, <67:68>, 1, ".", 0, "null", "." 1.0)
+>
+
+<
+  (155, 0, 1, <0:3>, 1, "Mr.", 0, "null")
+  (166, 0, 1, <0:3>, 1, "mr.", 0, "null")
+  (179, 0, 1, <0:3>, 1, "mr.", 0, "null")
+  (124, 1, 2, <4:10>, 1, "Vinken", 0, "null")
+  (159, 1, 2, <4:10>, 1, "Vinken", 0, "null", "NNP" 1.0)
+  (165, 1, 2, <4:10>, 1, "vinken", 0, "null")
+  (171, 1, 2, <4:10>, 1, "vinken", 0, "null")
+  (140, 2, 3, <11:13>, 1, "is", 0, "null")
+  (160, 2, 3, <11:13>, 1, "is", 0, "null", "VBZ" 1.0)
+  (173, 2, 3, <11:13>, 1, "is", 0, "null")
+  (142, 3, 4, <14:22>, 1, "chairman", 0, "null")
+  (161, 3, 4, <14:22>, 1, "chairman", 0, "null", "NN" 1.0)
+  (174, 3, 4, <14:22>, 1, "chairman", 0, "null")
+  (144, 4, 5, <23:25>, 1, "of", 0, "null")
+  (175, 4, 5, <23:25>, 1, "of", 0, "null")
+  (122, 5, 6, <26:34>, 1, "Elsevier", 0, "null")
+  (158, 5, 6, <26:34>, 1, "Elsevier", 0, "null", "NNP" 1.0)
+  (164, 5, 6, <26:34>, 1, "elsevier", 0, "null")
+  (169, 5, 6, <26:34>, 1, "elsevier", 0, "null")
+  (127, 6, 7, <35:40>, 1, "N.V.,", 0, "null")
+  (162, 6, 7, <35:40>, 1, "N.V.,", 0, "null", "NNP" 1.0)
+  (167, 6, 7, <35:40>, 1, "n.v.,", 0, "null")
+  (172, 6, 7, <35:40>, 1, "n.v.,", 0, "null")
+  (146, 7, 8, <41:44>, 1, "the", 0, "null")
+  (176, 7, 8, <41:44>, 1, "the", 0, "null")
+  (123, 8, 9, <45:50>, 1, "Dutch", 0, "null")
+  (156, 8, 9, <45:50>, 1, "Dutch", 0, "null", "JJ" 0.9062)
+  (168, 8, 9, <45:50>, 1, "dutch", 0, "null")
+  (170, 8, 9, <45:50>, 1, "dutch", 0, "null")
+  (153, 9, 10, <51:61>, 1, "publishing", 0, "null")
+  (157, 9, 10, <51:61>, 1, "publishing", 0, "null", "NN" 0.9499)
+  (178, 9, 10, <51:61>, 1, "publishing", 0, "null")
+  (150, 10, 11, <62:68>, 1, "group.", 0, "null")
+  (163, 10, 11, <62:68>, 1, "group.", 0, "null", "NN" 1.0)
+  (177, 10, 11, <62:68>, 1, "group.", 0, "null")
+>
+
+(ROOT_STRICT
+ (2510 SB-HD_MC_C 15.2805 0 11
+  (2492 HDN_BNP-PN_C 3.86187 0 2
+   (2491 NP-HDN_TTL-CPD_C 3.17593 0 2
+    (2489 N_SG_ILR 2.02901 0 1
+     (190 mister_abb_n2@n_-_c-nochd_le 0.509922 0 1
+      ("mr." 166
+       "token [ +CARG \"Mr.\" +CLASS alphanumeric [ +CASE capitalized+lower +INITIAL + ] +FORM \"mr.\" +FROM #1=\"0\" +ID *diff-list* [ LAST #2=*list* LIST *cons* [ FIRST \"1\" REST #2 ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"1\" +TAG \"NNP\" ] +PRBS *null* +TAGS *null* ] +TO \"3\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI #1 ] +IT italics +LB bracket_null +RB bracket_null +UW - ] ]")))
+    (2490 ^N_SG_ILR -0.259177 1 2
+     (193 generic_proper_ne@n_-_pn-gen_le 0 1 2
+      ("Vinken" 124
+       "token [ +CARG #1=\"Vinken\" +CLASS proper_ne +FORM #1 +FROM \"4\" +ID *diff-list* [ LAST #2=*list* LIST *cons* [ FIRST \"2\" REST #2 ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"1\" +TAG \"NNP\" ] +PRBS *null* +TAGS *null* ] +TO \"10\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI string ] +IT italics +LB bracket_null +RB bracket_null +UW + ] ]")))))
+  (2509 ^HD-CMP_U_C 10.4015 2 11
+   (236 be_id_is@v_np_is_le 0.159389 2 3
+    ("is" 140
+     "token [ +CARG #1=\"is\" +CLASS alphabetic [ +CASE non_capitalized+lower +INITIAL - ] +FORM #1 +FROM #2=\"11\" +ID *diff-list* [ LAST #3=*list* LIST *cons* [ FIRST \"3\" REST #3 ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"1\" +TAG \"VBZ\" ] +PRBS *null* +TAGS *null* ] +TO \"13\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI #2 ] +IT italics +LB bracket_null +RB bracket_null +UW - ] ]"))
+   (2508 HDN_BNP-PRD_C 10.3698 3 11
+    (2507 HDN-AJ_REDREL_C 9.7417 3 11
+     (321 chairman_prd_n1@n_-_c-prd_le 0.382461 3 4
+      ("chairman" 142
+       "token [ +CARG #1=\"chairman\" +CLASS alphabetic [ +CASE non_capitalized+lower +INITIAL - ] +FORM #1 +FROM #2=\"14\" +ID *diff-list* [ LAST #3=*list* LIST *cons* [ FIRST \"4\" REST #3 ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"1\" +TAG \"NN\" ] +PRBS *null* +TAGS *null* ] +TO \"22\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI #2 ] +IT italics +LB bracket_null +RB bracket_null +UW - ] ]"))
+     (2506 HD-CMP_U_C 9.16663 4 11
+      (355 of_poss@p_np_i-nm-poss_le -0.152822 4 5
+       ("of" 144
+        "token [ +CARG #1=\"of\" +CLASS alphabetic [ +CASE non_capitalized+lower +INITIAL - ] +FORM #1 +FROM #2=\"23\" +ID *diff-list* [ LAST #3=*list* LIST *cons* [ FIRST \"5\" REST #3 ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"1\" +TAG \"IN\" ] +PRBS *null* +TAGS *null* ] +TO \"25\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI #2 ] +IT italics +LB bracket_null +RB bracket_null +UW - ] ]"))
+      (2505 HDN-NP_APP-PR_C 9.36385 5 11
+       (2496 ^HDN_BNP-PN_C 5.36493 5 7
+        (2495 HDN-AJ_REDREL_C 4.51085 5 7
+         (2493 ^N_SG_ILR -0.748959 5 6
+          (437 generic_proper_ne@n_-_pn-gen_le 0 5 6
+           ("Elsevier" 122
+            "token [ +CARG #1=\"Elsevier\" +CLASS proper_ne +FORM #1 +FROM \"26\" +ID *diff-list* [ LAST #2=*list* LIST *cons* [ FIRST \"6\" REST #2 ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"1\" +TAG \"NNP\" ] +PRBS *null* +TAGS *null* ] +TO \"34\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI string ] +IT italics +LB bracket_null +RB bracket_null +UW + ] ]")))
+         (2494 W_COMMA_PLR 3.80365 6 7
+          (446 nv_post_ttl_2@n_-_tt-post-npt_le 0 6 7
+           ("n.v.," 167
+            "token [ +CARG \"N.V.\" +CLASS alphanumeric [ +CASE capitalized+upper +INITIAL - ] +FORM \"n.v.,\" +FROM #1=\"35\" +ID *diff-list* [ LAST #2=*list* LIST *cons* [ FIRST \"7\" REST *cons* [ FIRST \"8\" REST #2 ] ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"1\" +TAG \"NNP\" ] +PRBS *null* +TAGS *null* ] +TO \"40\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI #1 ] +IT italics +LB bracket_null +RB bracket_null +UW - ] ]")))))
+       (2504 SP-HD_N_C 2.75251 7 11
+        (461 the_1@d_-_the_le 1.13181 7 8
+         ("the" 146
+          "token [ +CARG #1=\"the\" +CLASS alphabetic [ +CASE non_capitalized+lower +INITIAL - ] +FORM #1 +FROM #2=\"41\" +ID *diff-list* [ LAST #3=*list* LIST *cons* [ FIRST \"9\" REST #3 ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"1\" +TAG \"DT\" ] +PRBS *null* +TAGS *null* ] +TO \"44\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI #2 ] +IT italics +LB bracket_null +RB bracket_null +UW - ] ]"))
+        (2503 ^AJ-HDN_NORM_C 1.58849 8 11
+         (488 dutch_a1@aj_-_i_le 0 8 9
+          ("dutch" 168
+           "token [ +CARG \"Dutch\" +CLASS alphabetic [ +CASE capitalized+lower +INITIAL - ] +FORM \"dutch\" +FROM #1=\"45\" +ID *diff-list* [ LAST #2=*list* LIST *cons* [ FIRST \"10\" REST #2 ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"0.9061785\" +TAG \"JJ\" ] +PRBS *null* +TAGS *null* ] +TO \"50\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI #1 ] +IT italics +LB bracket_null +RB bracket_null +UW - ] ]"))
+         (2502 ^N-HDN_CPD_C 0.512887 9 11
+          (2499 HDN_OPTCMP_C -0.729089 9 10
+           (2498 V_NGER-TR_DLR 0.304052 9 10
+            (2497 V_PRP_OLR 0.568294 9 10
+             (496 publish_v1@v_np*_le 0.316264 9 10
+              ("publishing" 153
+               "token [ +CARG #1=\"publishing\" +CLASS alphabetic [ +CASE non_capitalized+lower +INITIAL - ] +FORM #1 +FROM #2=\"51\" +ID *diff-list* [ LAST #3=*list* LIST *cons* [ FIRST \"11\" REST #3 ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"0.9499457\" +TAG \"NN\" ] +PRBS *null* +TAGS *null* ] +TO \"61\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI #2 ] +IT italics +LB bracket_null +RB bracket_null +UW - ] ]")))))
+          (2501 ^W_PERIOD_PLR 0.818111 10 11
+           (2500 N_SG_ILR 0.600903 10 11
+            (507 group_n1@n_-_c-gr_le -0.895065 10 11
+             ("group." 150
+              "token [ +CARG \"group\" +CLASS alphabetic [ +CASE non_capitalized+lower +INITIAL - ] +FORM \"group.\" +FROM #1=\"62\" +ID *diff-list* [ LAST #2=*list* LIST *cons* [ FIRST \"12\" REST *cons* [ FIRST \"13\" REST #2 ] ] ] +PRED predsort +TICK bool +TNT null_tnt [ +MAIN tnt_main [ +PRB \"1\" +TAG \"NN\" ] +PRBS *null* +TAGS *null* ] +TO \"68\" +TRAIT token_trait [ +HD token_head [ +LL ctype [ -CTYPE- string ] +TG string +TI #1 ] +IT italics +LB bracket_null +RB bracket_null +UW - ] ]"))))))))))))))
+
+(S (NP (N (N (N "mr.")) (N (N "Vinken"))))
+ (VP (V "is")
+  (NP
+   (N (N "chairman")
+    (PP (P "of")
+     (NP (NP (N (N (N "Elsevier")) (N (N "n.v.,"))))
+      (NP (DET "the")
+       (N (AP "dutch")
+        (N (N (N (V (V "publishing")))) (N (N (N "group."))))))))))))
+
+
+ [ TOP: h1
+   INDEX: e3 [ e SF: PROP TENSE: PRES MOOD: INDICATIVE PROG: - PERF: - ]
+   RELS: <
+          [ proper_q<0:10>
+            LBL: h4
+            ARG0: x6 [ x PERS: 3 NUM: SG IND: + ]
+            RSTR: h5
+            BODY: h7 ]
+          [ compound<0:10>
+            LBL: h8
+            ARG0: e10 [ e SF: PROP TENSE: UNTENSED MOOD: INDICATIVE PROG: - PERF: - ]
+            ARG1: x6
+            ARG2: x9 [ x PERS: 3 NUM: SG IND: + ] ]
+          [ udef_q<0:3>
+            LBL: h11
+            ARG0: x9
+            RSTR: h12
+            BODY: h13 ]
+          [ _mister_n_1<0:3>
+            LBL: h14
+            ARG0: x9 ]
+          [ named<4:10>
+            LBL: h8
+            ARG0: x6
+            CARG: "Vinken" ]
+          [ _be_v_id<11:13>
+            LBL: h2
+            ARG0: e3
+            ARG1: x6
+            ARG2: x15 ]
+          [ udef_q<14:68>
+            LBL: h16
+            ARG0: x15
+            RSTR: h17
+            BODY: h18 ]
+          [ _chairman_n_of<14:22>
+            LBL: h19
+            ARG0: x15 ]
+          [ _of_p<23:25>
+            LBL: h19
+            ARG0: e20 [ e SF: PROP TENSE: UNTENSED MOOD: INDICATIVE PROG: - PERF: - ]
+            ARG1: x15
+            ARG2: x21 [ x PERS: 3 NUM: SG IND: + ] ]
+          [ appos<26:68>
+            LBL: h19
+            ARG0: e23 [ e SF: PROP TENSE: UNTENSED MOOD: INDICATIVE PROG: - PERF: - ]
+            ARG1: x21
+            ARG2: x22 [ x PERS: 3 NUM: SG IND: + ] ]
+          [ proper_q<26:40>
+            LBL: h24
+            ARG0: x21
+            RSTR: h25
+            BODY: h26 ]
+          [ named<26:34>
+            LBL: h27
+            ARG0: x21
+            CARG: "Elsevier" ]
+          [ _nv_n_1<35:40>
+            LBL: h28
+            ARG0: x29 [ x IND: + ] ]
+          [ udef_q<35:40>
+            LBL: h30
+            ARG0: x29
+            RSTR: h31
+            BODY: h32 ]
+          [ compound<35:40>
+            LBL: h27
+            ARG0: i33
+            ARG1: x21
+            ARG2: x29 ]
+          [ _the_q<41:44>
+            LBL: h34
+            ARG0: x22
+            RSTR: h36
+            BODY: h35 ]
+          [ _dutch_a_1<45:50>
+            LBL: h37
+            ARG0: e38 [ e SF: PROP TENSE: UNTENSED MOOD: INDICATIVE PROG: - PERF: - ]
+            ARG1: x22 ]
+          [ compound<51:68>
+            LBL: h37
+            ARG0: e40 [ e SF: PROP TENSE: UNTENSED MOOD: INDICATIVE PROG: - PERF: - ]
+            ARG1: x22
+            ARG2: x39 [ x PERS: 3 NUM: SG GEND: N ] ]
+          [ udef_q<51:61>
+            LBL: h41
+            ARG0: x39
+            RSTR: h42
+            BODY: h43 ]
+          [ _publish_v_1<51:61>
+            LBL: h44
+            ARG0: e45 [ e SF: PROP TENSE: UNTENSED MOOD: INDICATIVE PROG: + PERF: - ]
+            ARG1: i47
+            ARG2: p46 ]
+          [ nominalization<51:61>
+            LBL: h48
+            ARG0: x39
+            ARG1: h44 ]
+          [ _group_n_of<62:68>
+            LBL: h37
+            ARG0: x22 ] >
+   HCONS: < h42 QEQ h48 h36 QEQ h37 h31 QEQ h28 h25 QEQ h27 h17 QEQ h19 h12 QEQ h14 h5 QEQ h8 h1 QEQ h2 > ]
+
+{e3:
+ _1:proper_q<0:10>[BV x6]
+ e10:compound<0:10>{e SF prop, TENSE untensed, MOOD indicative, PROG -, PERF -}[ARG1 x6, ARG2 x9]
+ _2:udef_q<0:3>[BV x9]
+ x9:_mister_n_1<0:3>{x PERS 3, NUM sg, IND +}[]
+ x6:named<4:10>("Vinken"){x PERS 3, NUM sg, IND +}[]
+ e3:_be_v_id<11:13>{e SF prop, TENSE pres, MOOD indicative, PROG -, PERF -}[ARG1 x6, ARG2 x15]
+ _3:udef_q<14:68>[BV x15]
+ x15:_chairman_n_of<14:22>{x}[]
+ e20:_of_p<23:25>{e SF prop, TENSE untensed, MOOD indicative, PROG -, PERF -}[ARG1 x15, ARG2 x21]
+ e23:appos<26:68>{e SF prop, TENSE untensed, MOOD indicative, PROG -, PERF -}[ARG1 x21, ARG2 x22]
+ _4:proper_q<26:40>[BV x21]
+ x21:named<26:34>("Elsevier"){x PERS 3, NUM sg, IND +}[]
+ x29:_nv_n_1<35:40>{x IND +}[]
+ _5:udef_q<35:40>[BV x29]
+ i33:compound<35:40>{i}[ARG1 x21, ARG2 x29]
+ _6:_the_q<41:44>[BV x22]
+ e38:_dutch_a_1<45:50>{e SF prop, TENSE untensed, MOOD indicative, PROG -, PERF -}[ARG1 x22]
+ e40:compound<51:68>{e SF prop, TENSE untensed, MOOD indicative, PROG -, PERF -}[ARG1 x22, ARG2 x39]
+ _7:udef_q<51:61>[BV x39]
+ e45:_publish_v_1<51:61>{e SF prop, TENSE untensed, MOOD indicative, PROG +, PERF -}[]
+ x39:nominalization<51:61>{x PERS 3, NUM sg, GEND n}[ARG1 e45]
+ x22:_group_n_of<62:68>{x PERS 3, NUM sg, IND +}[]
+}
+
+{
+  proper_q<0:10> BV named<4:10>(Vinken)  
+  compound<0:10> ARG1 named<4:10>(Vinken)  
+  compound<0:10> ARG2 _mister_n_1<0:3>  
+  udef_q<0:3> BV _mister_n_1<0:3>  
+  _be_v_id<11:13> ARG1 named<4:10>(Vinken)  
+  _be_v_id<11:13> ARG2 _chairman_n_of<14:22>  
+  udef_q<14:68> BV _chairman_n_of<14:22>  
+  _of_p<23:25> ARG1 _chairman_n_of<14:22>  
+  _of_p<23:25> ARG2 named<26:34>(Elsevier)  
+  appos<26:68> ARG1 named<26:34>(Elsevier)  
+  appos<26:68> ARG2 _group_n_of<62:68>  
+  proper_q<26:40> BV named<26:34>(Elsevier)  
+  udef_q<35:40> BV _nv_n_1<35:40>  
+  compound<35:40> ARG1 named<26:34>(Elsevier)  
+  compound<35:40> ARG2 _nv_n_1<35:40>  
+  _the_q<41:44> BV _group_n_of<62:68>  
+  _dutch_a_1<45:50> ARG1 _group_n_of<62:68>  
+  compound<51:68> ARG1 _group_n_of<62:68>  
+  compound<51:68> ARG2 nominalization<51:61>  
+  udef_q<51:61> BV nominalization<51:61>  
+  nominalization<51:61> ARG1 _publish_v_1<51:61>  
+  compound<0:10> SF prop  
+  compound<0:10> TENSE untensed  
+  compound<0:10> MOOD indicative  
+  compound<0:10> PROG -  
+  compound<0:10> PERF -  
+  _mister_n_1<0:3> PERS 3  
+  _mister_n_1<0:3> NUM sg  
+  _mister_n_1<0:3> IND +  
+  named<4:10>(Vinken) PERS 3  
+  named<4:10>(Vinken) NUM sg  
+  named<4:10>(Vinken) IND +  
+  _be_v_id<11:13> SF prop  
+  _be_v_id<11:13> TENSE pres  
+  _be_v_id<11:13> MOOD indicative  
+  _be_v_id<11:13> PROG -  
+  _be_v_id<11:13> PERF -  
+  _of_p<23:25> SF prop  
+  _of_p<23:25> TENSE untensed  
+  _of_p<23:25> MOOD indicative  
+  _of_p<23:25> PROG -  
+  _of_p<23:25> PERF -  
+  appos<26:68> SF prop  
+  appos<26:68> TENSE untensed  
+  appos<26:68> MOOD indicative  
+  appos<26:68> PROG -  
+  appos<26:68> PERF -  
+  named<26:34>(Elsevier) PERS 3  
+  named<26:34>(Elsevier) NUM sg  
+  named<26:34>(Elsevier) IND +  
+  _nv_n_1<35:40> IND +  
+  _dutch_a_1<45:50> SF prop  
+  _dutch_a_1<45:50> TENSE untensed  
+  _dutch_a_1<45:50> MOOD indicative  
+  _dutch_a_1<45:50> PROG -  
+  _dutch_a_1<45:50> PERF -  
+  compound<51:68> SF prop  
+  compound<51:68> TENSE untensed  
+  compound<51:68> MOOD indicative  
+  compound<51:68> PROG -  
+  compound<51:68> PERF -  
+  _publish_v_1<51:61> SF prop  
+  _publish_v_1<51:61> TENSE untensed  
+  _publish_v_1<51:61> MOOD indicative  
+  _publish_v_1<51:61> PROG +  
+  _publish_v_1<51:61> PERF -  
+  nominalization<51:61> PERS 3  
+  nominalization<51:61> NUM sg  
+  nominalization<51:61> GEND n  
+  _group_n_of<62:68> PERS 3  
+  _group_n_of<62:68> NUM sg  
+  _group_n_of<62:68> IND +  
+}
+
