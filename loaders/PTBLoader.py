@@ -24,6 +24,7 @@ class ptb_loader:
                 sent = []
                 tsent = []
                 index += 1
+                ord = 0
 
             line = line.lstrip()[:-1]
             loc = 0
@@ -46,10 +47,13 @@ class ptb_loader:
                     next = line.find(")", loc + 1)
                     token = line[loc:next]
                     stack[-1].setToken(token)
+                    stack[-1].setOrd(ord) # Set order number
+                    ord += 1
                     loc = next
 
                     # special cases
                     pos, token = special_transform(pos, token)
+
                     sent.append([pos, token])
                     tsent.append(stack[-1])
 

@@ -1,4 +1,4 @@
-# Given deepbank verb type and semlink verb type, check whether they are exclusively match
+# Given deepbank verb type and semlink verb type, check whether they are one-to-one correspondent
 import re
 
 class verb_checker:
