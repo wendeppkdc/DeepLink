@@ -1,5 +1,5 @@
 # DeepLink
-This is a project on a primary level. We try to merge Deepbank and Semlink resources.<br><br>
+This is a project at a primary stage. We try to merge Deepbank and Semlink resources for some future works.<br><br>
 ## Special Announcement
 This project includes Datasets: `OntoNotes5.0`, `PTB3`, `Semlink1.2.2` and `Deepbank1.0`<br>
 They WILL NOT be released due to copyright, you should prepare it on yourself.<br>
