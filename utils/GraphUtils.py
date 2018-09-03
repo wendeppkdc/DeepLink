@@ -1,4 +1,4 @@
-#This module creates graph from a text model.
+# This module creates graph from deepbank.
 import re
 
 sem_parser=["doc","sent","token","stand","verb","verbnet","frame","PB","SI","TAM","args"]
