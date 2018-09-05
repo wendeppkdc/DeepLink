@@ -51,6 +51,11 @@ if __name__ == "__main__":
     type_error_adj = 0  # count adj-form verbs
     type_error_n = 0
     type_error_u = 0
+    total_arg=0
+    miss_arg=0
+    none_type_error=0
+    wh_type_error=0
+    md_ng_type_error=0 #will,etc md word in ARGM-MOD is obmitted in Deepbank
 
     for sent in semlink.keys():
         if sent in deepbank.keys():
@@ -82,28 +87,49 @@ if __name__ == "__main__":
 
                 for arg in verb["args"]:
                     pointers, description = re.match(r"(.*?)-(.*)", arg).groups()
+                    if description=="rel":
+                        continue
 
                     pointers = re.split("[;\*]", pointers)
                     for pointer in pointers:
                         starter, backcount = re.match(r"(\d*):(\d*)", pointer).groups()
-                        sem_node = wsj["t" + sent][int(starter)]
+                        ptb_node = wsj["t" + sent][int(starter)]
+
+                        #TODO: deal with -NONE- token
+                        if ptb_node.pos == "-NONE-":
+                            none_type_error+=1
+                            continue
+
                         for i in range(int(backcount)):
-                            sem_node = sem_node.father
-                        start, end = sem_node.span
+                            ptb_node = ptb_node.father
+                        start, end = ptb_node.span
+
+                        #TODO: deal with WHNP token
+                        if ptb_node.pos[:2]=="WH":
+                            wh_type_error+=1
+                            continue
 
                         argsafe = False
                         for node in verb_node.succ:
-                            if node[1].addr[0] == start and node[1].addr[1] == end:
+                            if node[1].addr[0]>=start and node[1].addr[1] <= end:
                                 argsafe = True
 
                         for node in verb_node.prev:
-                            if node[1].addr[0] == start and node[1].addr[1] == end:
+                            if node[1].addr[0] >= start and node[1].addr[1] <= end:
                                 argsafe = True
 
+                        total_arg+=1
                         if not argsafe:
-                            #TODO: 
-                            print(sent, verb["verb"],sem_node.pos, start, end)
+                            #TODO: ArgM-MOD or ARG_NERG need special check
+                            if ptb_node.pos=="MD" or ptb_node.pos=="RB":
+                                md_ng_type_error+=1
+                                continue
+
+                            #TODO: Test here
+                            print(sent, verb["verb"], description, ptb_node.pos, start, end)
+                            print([t[1].addr for t in verb_node.prev],"-->O\t","O-->",[t[1].addr for t in verb_node.succ])
                             allsafe=False
+                            miss_arg+=1
 
             if allsafe:
                 fullsent += 1
@@ -117,4 +143,6 @@ if __name__ == "__main__":
                                                                                                        type_error_u))
     print("{} sentences matched between Semlink and Deepbank.".format(count))
     print("{} sentences are completely matched.".format(fullsent))
+    print("{} of {} arguments are matched.".format(total_arg-miss_arg, total_arg))
+    print("Errors Detected: NONE-type:{}, WH-type:{}, MD/RB-type:{}".format(none_type_error,wh_type_error,md_ng_type_error))
     vc.show()
